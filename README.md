@@ -1,4 +1,5 @@
 🩺 Skin Disease Classification from Images 🌿
+
 📘 Overview
 
 Skin diseases affect millions worldwide, and early detection plays a vital role in effective treatment. However, accurate diagnosis often requires expert dermatologists, which can be time-consuming and expensive.
