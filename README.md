@@ -47,6 +47,7 @@ Prediction:
 Upload an image, and the system predicts the corresponding skin disease class.
 
 🧩 Project Structure
+
 📁 Skin-Disease-Classification/
 ├── 📄 README.md
 ├── 📂 dataset/
@@ -62,7 +63,9 @@ Upload an image, and the system predicts the corresponding skin disease class.
 ├── 📄 requirements.txt
 └── 📄 app.py   (for Streamlit or Flask app)
 
+
 🚀 How to Run
+
 🧰 Prerequisites
 
 Make sure you have the following installed:
@@ -72,8 +75,9 @@ Python 3.8 or above
 pip
 
 ⚙️ Installation Steps
+
 # Clone the repository
-git clone https://github.com/yourusername/Skin-Disease-Classification.git
+git clone https://github.com/mariganesh077-debug/Skin-Disease-Classification.git
 cd Skin-Disease-Classification
 
 # Install dependencies
