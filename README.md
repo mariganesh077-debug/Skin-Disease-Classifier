@@ -49,18 +49,31 @@ Upload an image, and the system predicts the corresponding skin disease class.
 🧩 Project Structure
 
 📁 Skin-Disease-Classification/
+
 ├── 📄 README.md
+
 ├── 📂 dataset/
+
 │   ├── train/
+
 │   ├── test/
+
 │   └── validation/
+
 ├── 📂 models/
+
 │   └── skin_disease_model.h5
+
 ├── 📂 notebooks/
+
 │   └── skin_disease_classification.ipynb
+
 ├── 📂 static/
+
 │   └── sample_images/
+
 ├── 📄 requirements.txt
+
 └── 📄 app.py   (for Streamlit or Flask app)
 
 
